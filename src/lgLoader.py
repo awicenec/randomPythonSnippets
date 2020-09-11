@@ -19,7 +19,7 @@ def usage():
 
     or (better)
 
-    ipython - i [<path-to-logical-graph-file>]
+    ipython -i [<path-to-logical-graph-file>]
 
     If no filename (or URL) is provided, the code will try to open one of the test graphs
     from the daliuge GIT repository.
